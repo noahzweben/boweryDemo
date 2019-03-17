@@ -1,0 +1,21 @@
+@import 'theming/colors.scss';
+
+.detail_back {
+	text-align: center;
+	color: $purple;
+	margin-top: 20px;
+	font-weight: 500;
+}
+
+.detail_title{
+	margin: 20px;
+	text-align: center;
+	color: $gray;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.detail_img {
+	width: 100%;
+	height: auto;
+}

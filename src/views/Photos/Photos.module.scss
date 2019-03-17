@@ -1,0 +1,50 @@
+@import 'theming/colors.scss';
+.photos {
+	padding-top: 10px;
+}
+
+.photos_search {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	cursor: pointer;
+	color: $gray;
+	position: relative;
+
+	div {
+		margin-left: 10px;
+	}
+}
+
+.photos_search_clear {
+	color: $purple;
+	font-size: 12px;
+	margin-left: 50px;
+}
+
+.searchForm {
+	text-align: center;
+	padding-top: -5px;
+	padding: 20px;
+	background: rgba($purple, 0.2);
+}
+
+.photos_container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.photos_preview {
+	margin: 10px;
+	flex: 1 1 20%;
+	text-align: center;
+}
+
+
+.photos_tile {
+	// border-radius: 0px;
+	width:100px;
+	height: 100px;
+}

@@ -1,0 +1,25 @@
+.newForm {
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+.newForm_file_label {
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	img {
+		filter: invert(100%);
+	}
+}
+.newForm_file_input {
+	visibility: hidden;
+}
+
+.newForm_file_preview {
+	height:0px;
+	border: none;
+	display: block;
+	margin: auto;
+	margin-bottom: -50px;
+}

@@ -1,0 +1,47 @@
+@import 'theming/colors.scss';
+
+// global styling 
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+input,
+select {
+	box-sizing: content-box;
+	outline: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	color: $gray;
+	border-radius: 0px;
+	border: 1px solid $blue;
+	width: 250px;
+	height: 35px;
+	padding-left: 4px;
+	margin-top: 20px;
+	background: white;
+	font-size: 16px;
+
+	&::placeholder { 
+		color: $gray;
+	};
+}
+
+input[type="submit"] {
+	box-sizing: content-box;
+	margin-top: 20px;
+	background-color: $purple;
+	height: 40px;
+	border: none;
+	color: white;
+	width: 250px;
+	cursor: pointer;
+	font-size: 14px;
+
+	&:hover {
+		transition: all 0.3s;
+		background-color: $gray;
+	}
+}

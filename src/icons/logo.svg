@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="42px" viewBox="0 0 27 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8" transform="translate(-17.000000, -3.000000)" fill-rule="nonzero" stroke-width="3">
+            <g id="Group" transform="translate(15.000000, 3.000000)">
+                <path d="M10.4807289,39.3589078 C13.749687,39.3607535 30.0830227,22.7965747 22.9946017,9.11530389 C18.0867226,1.26976666 9.91337562,-0.415440881 5.55762039,4.62387804 C3.94427117,7.11344281 2.61385236,11.3951537 3.92885241,14.7065149 C5.27596974,18.0987521 8.24475425,20.5403373 12.1069586,24.7946889 C16.4690595,30.9593252 7.21177082,39.3570621 10.4807289,39.3589078 Z" id="Path-Copy" stroke="#CEFE47" transform="translate(14.077077, 20.560028) scale(-1, 1) rotate(-10.000000) translate(-14.077077, -20.560028) "></path>
+                <path d="M17.506979,40 C19.5906922,40 31.051115,31.0901208 25.4945464,21.4948663 C22.3689765,16.697239 17.1596934,15.669176 14.3814091,18.753365 C13.352122,20.2768548 12.5025347,22.8965499 13.3395525,24.9217429 C14.1970134,26.9963987 16.0885079,28.4889555 18.5488356,31.0901208 C21.3271199,34.8596851 15.4232657,40 17.506979,40 Z" id="Path" stroke="#43CC4D"></path>
+            </g>
+        </g>
+    </g>
+</svg>

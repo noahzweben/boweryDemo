@@ -1,0 +1,38 @@
+@import 'theming/colors.scss';
+
+.recent {
+	background-color: $lightBlue;
+	height: 200px;
+	position: relative;
+}
+
+.recent_title {
+	padding: 20px;
+	font-weight: 500;
+}
+
+.recent_photoContainer {
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+}
+
+.recent_seeAll {
+	text-align: center;
+	font-size: 14px;
+	font-weight: 500;
+	cursor: pointer;
+	position: absolute;
+	bottom: 10px;
+	width: 100%;
+}
+
+.search_title {
+	composes: recent_title;
+}
+
+.searchForm {
+	width: 100%;
+	text-align: center;
+	// margin:auto;
+}
