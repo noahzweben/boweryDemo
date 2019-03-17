@@ -23,5 +23,5 @@ Just a heads up, I mocked the API's using localStorage, and photos can be fairly
 * Swipe through photos in your search to quickly go through all plants that match your criteria
 * Responsiveness -- more testing on desktop and ipads etc...
 
-![Example](example.png)
-![Example 2](example2.jpeg)
+<img src="example.png" width="300px"/>
+<img src="example2.jpeg" width="300px"/>
