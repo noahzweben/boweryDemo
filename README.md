@@ -1,4 +1,4 @@
-#Bowery Demo App#
+# Bowery Demo App #
 
 ## Live Site ##
 You can see the site running at `https://d2pooavy3to05b.cloudfront.net`
