@@ -10,7 +10,7 @@ Then, at the same level as `package.json`,
 run `npm install`
 and then `npm start`
 
-Just a heads up, I mocked the API's using localStorage, and photos can be fairly space-intensive to store in localStorage. Running the app in *Private Mode* on your phone browser frees up some space! Please make sure you are in *Private Mode*if the add new photo feature is not working.
+Just a heads up, I mocked the API's using localStorage, and photos can be fairly space-intensive to store in localStorage. Running the app in *Private Mode* on your phone browser frees up some space! Please make sure you are in *Private Mode* if the add new photo feature is not working.
 
 ## Usage Instructions ##
 * New Plant - click on camera icon in top right corner
